@@ -1,30 +1,27 @@
-20230825	13:27:21	bad1aa3f-c466-4175-ba05-8dc8bf8ca760	/new-page.html	GET
-20230825	13:27:21	716cb7a0-2f82-46b0-8b0e-04137e7d5e23	/css/style.css	GET
-20230825	13:27:21	3c280651-d869-4132-8e53-bb069a42e50e	/img/img1.jpg	GET
-20230825	13:27:21	ba4986a5-1659-433d-9d34-15054314ce16	/favicon.ico	GET
-20230825	13:37:22	309e3803-5426-49ae-a8ce-b125e2fe19b8	/	GET
-20230825	13:37:22	7ab51b97-6828-40ec-9f82-88308076f97c	/css/style.css	GET
-20230825	13:37:23	8359791b-f4d4-4756-9604-fa00d0f56f10	/old	GET
-20230825	13:37:23	02c39c7d-6545-4ae6-9e34-e0d27683d690	/old	GET
-20230825	13:37:23	5ecc01ff-238b-429e-bcda-57cfebb13f00	/css/style.css	GET
-20230825	13:37:23	56c2f8ed-71b2-4890-978d-298f4ce40ee7	/favicon.ico	GET
-20230825	13:37:27	5b0be167-6a37-405c-a2a4-a52195b18487	/old-page	GET
-20230825	13:37:27	9fd1d211-c63d-40c3-96ee-db89035cebc6	/new-page.html	GET
-20230825	13:37:27	40a43134-5beb-4d66-b651-81e7a9fa25dc	/css/style.css	GET
-20230825	13:37:27	b91fc7c9-935e-4202-a471-2d4354ee4ea3	/img/img1.jpg	GET
-20230825	13:37:27	2c18078b-2a38-403f-8208-301c199eae64	/favicon.ico	GET
-20230825	13:37:39	3d5f05d8-3ed4-4414-b421-e2c5ffaadb6f	/index.html	GET
-20230825	13:37:39	db1a2fc8-252c-4640-879d-89089a58296a	/css/style.css	GET
-20230825	13:37:39	9702adf7-1874-49be-8087-4d8f3bec31d1	/favicon.ico	GET
-20230825	13:43:53	832afb97-4016-4229-9f3b-ef5e8549ab62	/old	GET
-20230825	13:43:54	654bafb5-7d08-46c3-9696-2dea395fca74	/old-page.html	GET
-20230825	13:43:54	9f907c5e-293b-44ff-8b73-2fda4f7e2e42	/new-page.html	GET
-20230825	13:43:54	da1ed0d6-feeb-4f80-b7fe-53bc67a20ffc	/css/style.css	GET
-20230825	13:43:54	613505af-9df7-4a96-9a9e-1b1befcb8a69	/img/img1.jpg	GET
-20230825	13:43:54	69c81c01-f3d1-437d-b00a-5ec360eeef47	/favicon.ico	GET
-20230825	13:44:11	844c1723-c775-461f-b91f-8d516ec6dd1d	/www-page.html	GET
-20230825	13:44:11	abb37791-cebd-4997-a613-56ddab324bd6	/css/style.css	GET
-20230825	13:44:11	bb2995b6-3115-4c09-9a47-f71f16ddb183	/favicon.ico	GET
-20230825	13:44:23	c65fa5f5-0dda-418c-a2e0-9a6e31d442db	/page.html	GET
-20230825	13:44:23	b17578e6-1157-4ac4-b9a6-e86deb7c5a47	/css/style.css	GET
-20230825	13:44:23	d6350bf3-3506-4d97-a9c5-0355b3724989	/favicon.ico	GET
+20230827	19:24:50	c996eff5-8ab3-40a5-9642-781582790e69	GET	undefined	/
+20230827	19:24:50	846470f4-08a7-41e9-8af5-3419a64e640d	GET	undefined	/css/style.css
+20230827	19:36:55	589f8907-37f4-4980-b711-d9447d8046bb	GET	undefined	/
+20230827	19:36:55	bbce56cb-4bdc-4de8-89f5-1eaed6cc1828	GET	undefined	/css/style.css
+20230827	19:41:13	81f3aa8a-ee0b-4962-826c-2edf1b435ec5	OPTIONS	https://www.google.com	/
+20230827	19:41:13	96f0af8c-b26c-49e7-af52-f10978eee6fd	GET	https://www.google.com	/
+20230827	19:44:33	538b0288-d42f-495b-82a6-59d37e0cf2f7	GET	undefined	/
+20230827	19:44:33	ac3c2552-b39f-4af9-9b94-ccf890688a02	GET	undefined	/css/style.css
+20230827	19:44:38	8b91698c-bbfd-4c01-8d28-080d8b4c3267	OPTIONS	https://www.google.com	/
+20230827	19:44:38	9de13d72-a2bc-4722-9ff1-72270fd08995	GET	https://www.google.com	/
+20230827	19:53:59	a204b6f0-1675-449b-8c0c-e83eee2a028e	OPTIONS	https://www.google.com	/
+20230827	19:53:59	31e3e44b-e324-4419-bad5-a4f052c92f2c	GET	https://www.google.com	/
+20230827	19:54:25	8cad17e8-6a49-4c95-b6dd-845474fbf9cd	OPTIONS	https://www.google.com	/
+20230827	19:54:25	08ebcdd3-16f4-4594-8fcc-dd3f3be7e128	GET	https://www.google.com	/
+20230827	19:54:33	6dd62463-5cc7-4b4d-874d-3e5906fb41b4	OPTIONS	https://www.google.com	/
+20230827	19:54:33	a810eb0d-f70f-4f0c-aa1d-6a04fda9dbb6	GET	https://www.google.com	/
+20230827	20:12:49	497a587b-ffff-43af-9de9-cb1b213d8254	OPTIONS	https://www.google.com	/
+20230827	20:12:49	c950a6ad-1d8d-42f8-9028-edc6407f4f55	GET	https://www.google.com	/
+20230827	20:14:17	648f8f13-60f0-4887-b6f7-b57c86a974c7	GET	undefined	/
+20230827	20:22:05	eae6c319-6c02-4110-90bc-f784856d16bd	GET	undefined	/
+20230827	20:22:05	b4b92e20-7109-432d-a793-d0a10626fca8	GET	undefined	/css/style.css
+20230827	20:22:10	48963d43-cb58-4b08-bc3f-548b3e5d25d0	GET	undefined	/
+20230827	20:22:10	282b4b26-63d6-466a-a427-e65bb30abc41	GET	undefined	/css/style.css
+20230827	20:26:14	0ff59230-c75e-4de8-9822-b2191f72cb71	GET	undefined	/
+20230827	20:26:14	55b95ad6-cb8e-46ce-935b-960779aef251	GET	undefined	/css/style.css
+20230827	20:26:19	6865c7c9-8523-4534-9b29-bce81c3bc02d	GET	undefined	/ss
+20230827	20:26:19	63517ec6-fbf5-4023-8270-e8c431c83978	GET	undefined	/css/style.css
