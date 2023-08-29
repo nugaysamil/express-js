@@ -20,7 +20,6 @@ const createNewEmployee = (req, res) => {
 
     data.setEmployees([...data.employees, newEmployee]);
     res.status(201).json(data.employees); // a new resource was created as a result
-
 }
 
 const updateEmployee = (req, res) => {
