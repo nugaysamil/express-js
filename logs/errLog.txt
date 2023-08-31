@@ -1,1 +1,7 @@
 20230828	22:28:55	f0ca2382-6362-4ff9-b369-bae16040e6c7	ReferenceError: newEmployee is not defined
+20230831	18:30:11	c6e7a795-0237-4030-9dac-a9e411a24df5	TypeError: allowedOrigins.indexOf is not a function
+20230831	18:30:30	0084a065-5817-432b-aed4-e263ea124861	TypeError: allowedOrigins.indexOf is not a function
+20230831	18:30:39	6a4a023f-653f-47ae-b212-2821c5ab82c4	TypeError: allowedOrigins.indexOf is not a function
+20230831	18:30:54	37eb095c-897e-4759-8ccc-9db83088fe7c	TypeError: allowedOrigins.indexOf is not a function
+20230831	18:31:36	fc82ba0e-10f8-4cf0-af96-136ead7c86df	TypeError: allowedOrigins.indexOf is not a function
+20230831	18:34:47	bf2d7ee2-7d71-4977-a544-c6c0c174b6b1	SyntaxError: Unexpected token e in JSON at position 0
