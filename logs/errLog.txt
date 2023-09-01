@@ -5,3 +5,11 @@
 20230831	18:30:54	37eb095c-897e-4759-8ccc-9db83088fe7c	TypeError: allowedOrigins.indexOf is not a function
 20230831	18:31:36	fc82ba0e-10f8-4cf0-af96-136ead7c86df	TypeError: allowedOrigins.indexOf is not a function
 20230831	18:34:47	bf2d7ee2-7d71-4977-a544-c6c0c174b6b1	SyntaxError: Unexpected token e in JSON at position 0
+20230901	16:15:26	97d10538-04f8-43a2-adda-4b5baa73ab07	ReferenceError: origin is not defined
+20230901	16:15:50	4549f7b1-f43e-4374-97cc-08b3432bf888	ReferenceError: origin is not defined
+20230901	16:16:05	21a4be6f-6302-4186-a868-4d37c9068e02	ReferenceError: origin is not defined
+20230901	16:17:28	4dcd9def-6fa3-4660-802a-2606bc7c80df	ReferenceError: origin is not defined
+20230901	16:17:38	727c3417-a1ce-4b90-8fa0-e103fad1da92	ReferenceError: origin is not defined
+20230901	16:17:40	5d5d740b-cfe6-4868-8801-9f45846e3c05	ReferenceError: origin is not defined
+20230901	16:17:44	3830cca1-6d4a-40f1-a547-872030aabcf2	ReferenceError: origin is not defined
+20230901	16:17:48	9dfc5a28-2f03-4a38-954b-988825d4562e	ReferenceError: origin is not defined
