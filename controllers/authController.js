@@ -5,6 +5,7 @@ const usersDB = {
 	},
 };
 const bcrypt = require("bcrypt");
+
 const jwt = require("jsonwebtoken");
 const fsPromises = require("fs").promises;
 const path = require("path");
@@ -14,7 +15,7 @@ const handleLogin = async (req, res) => {
 	if (!user || !pwd)
 		return res
 			.status(400)
-			.json({ message: "Username and password are required." });
+			.json({ "message": "Username and password are required." });
 	const foundUser = usersDB.users.find((person) => person.username === user);
 	if (!foundUser) return res.sendStatus(401); //Unauthorized
 	// evaluate password
@@ -22,7 +23,6 @@ const handleLogin = async (req, res) => {
 	if (match) {
 		const roles = Object.values(foundUser.roles);
 		// create JWTs
-
 		const accessToken = jwt.sign(
 			{
 				"UserInfo": {
@@ -34,11 +34,11 @@ const handleLogin = async (req, res) => {
 			{ expiresIn: "30s" },
 		);
 		const refreshToken = jwt.sign(
-			{ username: foundUser.username },
+			{ "username": foundUser.username },
 			process.env.REFRESH_TOKEN_SECRET,
 			{ expiresIn: "1d" },
 		);
-		// Saving refreshToken with currentUser
+		// Saving refreshToken with current user
 		const otherUsers = usersDB.users.filter(
 			(person) => person.username !== foundUser.username,
 		);
@@ -50,10 +50,10 @@ const handleLogin = async (req, res) => {
 		);
 		res.cookie("jwt", refreshToken, {
 			httpOnly: true,
-			maxAge: 24 * 60 * 60 * 1000,
-			secure: true,
 			sameSite: "None",
-		});
+			secure: true,
+			maxAge: 24 * 60 * 60 * 1000,
+		}); // secure : true
 		res.json({ accessToken });
 	} else {
 		res.sendStatus(401);
